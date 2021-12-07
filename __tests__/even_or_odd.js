@@ -11,3 +11,6 @@ test('2 is even', () => {
 test('7 is odd', () => {
     expect(even_or_odd(7)).toBe('Odd');
 });
+
+
+// jsone --watchAll padaro jog terminale visad stebi ir atsinaujina automatiškai
