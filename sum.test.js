@@ -14,6 +14,7 @@ test('adds 1 and 2 to equal 3', () => {
     expect(sum(1, 2)).toBe(3);
     expect(sum(2, 1)).toBe(3);
 });
+// test ir it yra vienas ir tas pats
 
 test('adds 3 + 5 to equal 8', () => {
     expect(sum(3, 5)).toBe(8);
